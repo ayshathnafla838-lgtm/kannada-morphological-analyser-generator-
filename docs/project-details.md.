@@ -1,0 +1,22 @@
+Project Details
+
+Project Title
+Kannada Morphological Analyser and Generator Using Deep Learning
+
+Introduction
+This project explores morphological analysis and word generation for the Kannada language. Morphological analysis identifies a word's root and grammatical components, such as suffixes. Morphological generation aims to form words using a root and grammatical information.
+
+Objectives
+- Study Kannada word structure.
+- Understand root words and suffixes.
+- Explore deep learning approaches for Kannada Natural Language Processing (NLP).
+- Document analysis and generation methods.
+
+Language
+Kannada
+
+Domain
+Natural Language Processing (NLP) and Deep Learning
+
+Implementation Details
+The dataset, model architecture, tools, and experimental results will be added after they are verified against the actual project implementation.
