@@ -1,23 +1,13 @@
-Kannada Morphological Analyser and Generator Using Deep Learning
+Source Code
+This folder contains the source code for the Kannada Morphological Analyzer and Generator project.
 
-Project Overview
-This project focuses on Kannada morphological analysis and word generation using deep learning techniques.
-Morphological analysis studies the structure of words by identifying their root words and grammatical components, such as suffixes. Morphological generation works in the opposite direction by producing word forms from a root and relevant grammatical information.
-
-Objectives
-- Explore the morphological structure of Kannada words.
-- Understand root words and suffixes.
-- Study how deep learning can support Kannada language processing.
-- Explore the analysis and generation of Kannada word forms.
-
-Example
-A morphological analyser may break a Kannada word into a root and its suffixes, depending on the word's grammatical structure.
-- Language: Kannada
-- Domain: Natural Language Processing (NLP)
-- Project area: Deep Learning and Computational Linguistics
+Main File
+- "kannada_morphological_analyzer.py" — Python GUI for Kannada text processing.
 
 Technologies
-The tools and frameworks used in the implementation will be documented here after they are confirmed.
+- Python
+- Tkinter
+- PyTorch
 
-Project Status
-Project documentation is being organised. Implementation details, dataset information, and results will be added as they are verified.
+Status
+The main Python file has been uploaded. Supporting model files and vocabulary files still need to be added to make the application fully runnable.
